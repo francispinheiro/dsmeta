@@ -1,0 +1,4 @@
+#Mon Sep 05 18:13:03 BRT 2022
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=skin
